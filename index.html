@@ -172,7 +172,7 @@
   .news-art.photo{padding:0; position:relative; background:#2c2c2c}
   .news-art.photo img{position:absolute; inset:0; width:100%; height:100%; object-fit:cover}
   .news-art.photo .news-chip{position:absolute; top:16px; left:18px; z-index:2; background:var(--yellow); color:var(--dark)}
-  .news-photo-credit{position:absolute; right:10px; bottom:8px; z-index:2; font-size:10.5px; font-weight:600; letter-spacing:.04em; color:#fff; background:rgba(0,0,0,.55); padding:3px 8px; border-radius:4px}
+  .news-body .crediti{font-style:italic; color:#a3a29a}
   .news-body{padding:20px 22px 22px; display:flex; flex-direction:column; gap:10px; flex:1}
   .news-body h3{margin:0; font-family:var(--serif); font-size:20px; font-weight:800; line-height:1.25; letter-spacing:-.2px}
   .news-body p{margin:0; font-size:14.5px; color:var(--muted); flex:1}
@@ -510,10 +510,6 @@
         var img = document.createElement('img');
         img.src = item.image; img.alt = item.title; img.loading = 'lazy';
         art.appendChild(img); art.appendChild(chip);
-        if (item.credit){
-          var cr = document.createElement('span'); cr.className = 'news-photo-credit'; cr.textContent = item.credit;
-          art.appendChild(cr);
-        }
       } else {
         var artTitle = document.createElement('span'); artTitle.className = 'news-art-title'; artTitle.textContent = item.artTitle;
         art.appendChild(chip); art.appendChild(artTitle);
@@ -521,7 +517,12 @@
       var body = document.createElement('div');
       body.className = 'news-body';
       var h3 = document.createElement('h3'); h3.textContent = item.title;
-      var p = document.createElement('p'); p.textContent = item.summary;
+      var p = document.createElement('p');
+      if (item.credit){
+        var cr = document.createElement('span'); cr.className = 'crediti'; cr.textContent = item.credit + ' — ';
+        p.appendChild(cr);
+      }
+      p.appendChild(document.createTextNode(item.summary));
       var meta = document.createElement('div'); meta.className = 'news-meta';
       var b = document.createElement('b'); b.textContent = item.source;
       meta.appendChild(b); meta.appendChild(document.createTextNode(' · ' + item.date + ' →'));

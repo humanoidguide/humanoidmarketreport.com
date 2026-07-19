@@ -12,9 +12,14 @@ or remove sources — the publisher reads it on every run.
    OR confirmation in the company's own press release**.
 4. Capability claims are always attributed: "according to [company]".
 5. Summaries in our own words, 1–2 sentences. No copied text.
-6. Images: company press/newsroom images only (with "Photo: [company]" credit), our own
-   humanoid.guide images for our own stories, otherwise the branded color card. Never
-   hotlink other publications' photos.
+6. Images — every item should have one when a rights-safe candidate exists, in this order:
+   (a) the company's own press/newsroom images — credit "Image © [Company]";
+   (b) humanoid.guide's own images for humanoid.guide stories — credit "Image © Humanoid Guide";
+   (c) openly licensed images (CC BY / CC0, e.g. Wikimedia Commons) — credit with author and
+       license, e.g. "Image: [Author] / Wikimedia Commons, CC BY 4.0";
+   (d) otherwise the branded color card (art + artTitle).
+   The credit is stored in the "credit" field and rendered automatically at the start of the
+   summary. NEVER use other publications' article photos — credit does not equal a license.
 7. No suitable story = skip the run. Never publish filler.
 8. Deduplicate against the existing news.json archive before publishing.
 
