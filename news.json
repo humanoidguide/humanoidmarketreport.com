@@ -1,0 +1,41 @@
+{
+  "site": "humanoidmarketreport.com",
+  "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
+  "items": [
+    {
+      "iso": "2026-07-16",
+      "chip": "Funding",
+      "art": "yellow",
+      "artTitle": "$400M in six months",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/07/Lim.jpg",
+      "credit": "Photo: LimX Dynamics",
+      "title": "LimX Dynamics closes a $200M Pre-IPO round at a RMB 15B valuation",
+      "summary": "The Shenzhen humanoid maker has now raised $400 million in six months — days before showing its Oli robot clearing a room of household chores fully autonomously.",
+      "source": "humanoid.guide",
+      "date": "16 Jul 2026",
+      "url": "https://humanoid.guide/limx-dynamics-200m-pre-ipo-cosa-0-5/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing"
+    },
+    {
+      "iso": "2026-07-05",
+      "chip": "IPO",
+      "art": "dark",
+      "artTitle": "Agility goes public",
+      "title": "Agility Robotics heads for the stock market at a ~$2.5B valuation",
+      "summary": "The Oregon-based maker of Digit plans to list via a SPAC merger with Churchill Capital Corp XI, raising over $620 million — while CEO Peggy Johnson says home humanoids are still a decade out.",
+      "source": "TechCrunch",
+      "date": "5 Jul 2026",
+      "url": "https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/"
+    },
+    {
+      "iso": "2026-06-10",
+      "chip": "Funding",
+      "art": "green",
+      "artTitle": "Big Tech backs Neura",
+      "title": "Amazon and Nvidia among backers of Neura Robotics, CNBC reports",
+      "summary": "More Big Tech capital flows into the humanoid race as the German robot maker draws high-profile investors.",
+      "source": "CNBC",
+      "date": "10 Jun 2026",
+      "url": "https://www.cnbc.com/2026/06/10/neura-robotics-funding-ai-humanoid-robots.html"
+    }
+  ]
+}
