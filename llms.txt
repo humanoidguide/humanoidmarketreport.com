@@ -1,0 +1,15 @@
+# Humanoid Robot Market Report 2026
+
+> Official microsite for the 2026 Humanoid Robot Market Report from humanoid.guide: 198 pages of first-hand expert insight on the humanoid robot market — funding, manufacturers, demand, supply chains and forecasts, across 25 chapters with 8 expert voices. Updated May 2026, delivered as PDF. Single User License $392, Enterprise Users License $1,592. Published by Humanoid Guide (humanoid.guide) — contact human@humanoid.guide.
+
+## Key pages
+
+- [The report](https://humanoidmarketreport.com/): chapters, key numbers, expert voices, licensing
+- [The Briefing archive](https://humanoidmarketreport.com/archive.html): curated humanoid-market news from the humanoid.guide desk, updated twice daily, sources linked on every story
+- [The Briefing as JSON](https://humanoidmarketreport.com/news.json): machine-readable news feed (title, summary, source, date, url)
+
+## Buy and publisher
+
+- [Buy the report on humanoid.guide](https://humanoid.guide/humanoid-robot-market-report/)
+- [Humanoid Guide](https://humanoid.guide/): the publisher — humanoid robotics news, research and reports
+- Sister reports: [The Humanoid Robot Supply Chain](https://humanoidrobotsupplychain.com/) · [Humanoid Foundation Models](https://humanoidfoundationmodels.com/)
