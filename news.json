@@ -3,6 +3,28 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-07-17",
+      "chip": "Launch",
+      "image": "https://www.weaverobotics.com/images/products/isaac-1-colorways/sage.webp",
+      "credit": "Image © Weave Robotics",
+      "title": "Weave Robotics puts the home humanoid on sale at $7,999",
+      "summary": "The San Francisco startup has opened orders for Isaac 1, a wheeled home robot that folds laundry, makes beds and tidies rooms autonomously, according to Weave — $7,999 up front or $449 a month, with first deliveries this fall.",
+      "source": "The Robot Report",
+      "date": "17 Jul 2026",
+      "url": "https://www.therobotreport.com/weave-robotics-launches-isaac-first-mobile-humanoid-robot/"
+    },
+    {
+      "iso": "2026-07-15",
+      "chip": "Funding",
+      "image": "https://images.prismic.io/walden-robotics/F3PLEsm4J5f2K64f_walden_news_hero.png?auto=format,compress&rect=171,0,2057,1200&w=2400&h=1400",
+      "credit": "Image © Walden Robotics",
+      "title": "Toyota spinout Walden Robotics launches with $300M at a $1.1B valuation",
+      "summary": "The Toyota Research Institute spinout led by MIT's Russ Tedrake emerged from stealth with backing from Toyota, Nvidia, Boeing and Samsung — and says its wheeled general-purpose robots have been working at a Toyota plant in North America since February.",
+      "source": "The Robot Report",
+      "date": "15 Jul 2026",
+      "url": "https://www.therobotreport.com/walden-robotics-launches-1-1b-valuation-general-purpose-robots/"
+    },
+    {
       "iso": "2026-07-16",
       "chip": "Funding",
       "art": "yellow",
