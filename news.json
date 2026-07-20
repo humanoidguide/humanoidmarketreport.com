@@ -3,6 +3,28 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-07-18",
+      "chip": "Launch",
+      "image": "https://www.agibot.com/file/ueditor/php/upload/image/20260718/1784337114713601.jpg",
+      "credit": "Image © AGIBOT",
+      "title": "AgiBot debuts four robots at WAIC, led by the A3 Ultra humanoid",
+      "summary": "At Shanghai's World AI Conference the company unveiled the 1.74 m, 51-DoF A3 Ultra — running Nvidia's Thor chip with up to eight hours of runtime, according to AgiBot — alongside the X2 EDU education platform, the industrial G2 Max and the 20-DoF OmniHand 3 Ultra-M dexterous hand.",
+      "source": "AGIBOT",
+      "date": "18 Jul 2026",
+      "url": "https://www.agibot.com/article/231/detail/85.html"
+    },
+    {
+      "iso": "2026-07-16",
+      "chip": "M&A",
+      "image": "https://bostondynamics.com/wp-content/uploads/2024/10/atlas-tri-1024x1024.jpg",
+      "credit": "Image © Boston Dynamics",
+      "title": "Hyundai moves to take full ownership of Boston Dynamics",
+      "summary": "SoftBank is exercising its put option and Hyundai Motor Group shareholders will buy out its remaining stake in the Atlas maker, according to Hyundai — which says it plans to put Atlas humanoids to work at its Metaplant America factory from 2028.",
+      "source": "Hyundai Motor Group",
+      "date": "16 Jul 2026",
+      "url": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001225"
+    },
+    {
       "iso": "2026-07-17",
       "chip": "Launch",
       "image": "https://www.weaverobotics.com/images/products/isaac-1-colorways/sage.webp",
