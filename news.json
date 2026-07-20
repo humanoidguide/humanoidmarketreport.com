@@ -14,17 +14,6 @@
       "url": "https://www.agibot.com/article/231/detail/85.html"
     },
     {
-      "iso": "2026-07-16",
-      "chip": "M&A",
-      "image": "https://bostondynamics.com/wp-content/uploads/2024/10/atlas-tri-1024x1024.jpg",
-      "credit": "Image © Boston Dynamics",
-      "title": "Hyundai moves to take full ownership of Boston Dynamics",
-      "summary": "SoftBank is exercising its put option and Hyundai Motor Group shareholders will buy out its remaining stake in the Atlas maker, according to Hyundai — which says it plans to put Atlas humanoids to work at its Metaplant America factory from 2028.",
-      "source": "Hyundai Motor Group",
-      "date": "16 Jul 2026",
-      "url": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001225"
-    },
-    {
       "iso": "2026-07-17",
       "chip": "Launch",
       "image": "https://www.weaverobotics.com/images/products/isaac-1-colorways/sage.webp",
@@ -36,15 +25,15 @@
       "url": "https://www.therobotreport.com/weave-robotics-launches-isaac-first-mobile-humanoid-robot/"
     },
     {
-      "iso": "2026-07-15",
-      "chip": "Funding",
-      "image": "https://images.prismic.io/walden-robotics/F3PLEsm4J5f2K64f_walden_news_hero.png?auto=format,compress&rect=171,0,2057,1200&w=2400&h=1400",
-      "credit": "Image © Walden Robotics",
-      "title": "Toyota spinout Walden Robotics launches with $300M at a $1.1B valuation",
-      "summary": "The Toyota Research Institute spinout led by MIT's Russ Tedrake emerged from stealth with backing from Toyota, Nvidia, Boeing and Samsung — and says its wheeled general-purpose robots have been working at a Toyota plant in North America since February.",
-      "source": "The Robot Report",
-      "date": "15 Jul 2026",
-      "url": "https://www.therobotreport.com/walden-robotics-launches-1-1b-valuation-general-purpose-robots/"
+      "iso": "2026-07-16",
+      "chip": "M&A",
+      "image": "https://bostondynamics.com/wp-content/uploads/2024/10/atlas-tri-1024x1024.jpg",
+      "credit": "Image © Boston Dynamics",
+      "title": "Hyundai moves to take full ownership of Boston Dynamics",
+      "summary": "SoftBank is exercising its put option and Hyundai Motor Group shareholders will buy out its remaining stake in the Atlas maker, according to Hyundai — which says it plans to put Atlas humanoids to work at its Metaplant America factory from 2028.",
+      "source": "Hyundai Motor Group",
+      "date": "16 Jul 2026",
+      "url": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001225"
     },
     {
       "iso": "2026-07-16",
@@ -58,6 +47,17 @@
       "source": "humanoid.guide",
       "date": "16 Jul 2026",
       "url": "https://humanoid.guide/limx-dynamics-200m-pre-ipo-cosa-0-5/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing"
+    },
+    {
+      "iso": "2026-07-15",
+      "chip": "Funding",
+      "image": "https://images.prismic.io/walden-robotics/F3PLEsm4J5f2K64f_walden_news_hero.png?auto=format,compress&rect=171,0,2057,1200&w=2400&h=1400",
+      "credit": "Image © Walden Robotics",
+      "title": "Toyota spinout Walden Robotics launches with $300M at a $1.1B valuation",
+      "summary": "The Toyota Research Institute spinout led by MIT's Russ Tedrake emerged from stealth with backing from Toyota, Nvidia, Boeing and Samsung — and says its wheeled general-purpose robots have been working at a Toyota plant in North America since February.",
+      "source": "The Robot Report",
+      "date": "15 Jul 2026",
+      "url": "https://www.therobotreport.com/walden-robotics-launches-1-1b-valuation-general-purpose-robots/"
     },
     {
       "iso": "2026-07-05",
