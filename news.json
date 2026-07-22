@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-07-21",
+      "chip": "Funding",
+      "image": "https://thehumanoid.ai/wp-content/uploads/2026/07/HMND-Series-A-25-scaled.png",
+      "credit": "Image © Humanoid",
+      "title": "UK's Humanoid raises $152M, calling itself Europe's first humanoid unicorn",
+      "summary": "The London startup behind the wheeled HMND 01 closed a $152 million Series A led by Prime Movers Lab at a $1.35 billion post-money valuation — making it Europe's first pure-play humanoid robotics unicorn, according to the company. Schaeffler and Bosch join as strategic backers, doubling as anchor customer and contract manufacturer ahead of a Q4 2026 beta rollout.",
+      "source": "Humanoid",
+      "date": "21 Jul 2026",
+      "url": "https://thehumanoid.ai/humanoid-raises-152-million-at-1-35-billion-post-money-valuation-becoming-europes-first-pure-play-humanoid-robotics-unicorn/"
+    },
+    {
       "iso": "2026-07-20",
       "chip": "Labor",
       "image": "https://bostondynamics.com/wp-content/uploads/2024/10/atlas-tri-1024x1024.jpg",
