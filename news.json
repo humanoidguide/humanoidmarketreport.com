@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-07-22",
+      "chip": "Production",
+      "art": "dark",
+      "artTitle": "Optimus goes quiet",
+      "title": "Tesla goes quiet on Optimus volume production",
+      "summary": "Tesla's Q2 shareholder letter drops the previous quarter's language about the Optimus humanoid reaching volume production, according to TechCrunch — in a quarter where capital spending more than doubled and volume-production timelines for the Cybercab, Semi and Megapack 3 all slipped.",
+      "source": "TechCrunch",
+      "date": "22 Jul 2026",
+      "url": "https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/"
+    },
+    {
       "iso": "2026-07-21",
       "chip": "Funding",
       "image": "https://thehumanoid.ai/wp-content/uploads/2026/07/HMND-Series-A-25-scaled.png",
