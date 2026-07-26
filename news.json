@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-07-22",
+      "chip": "Funding",
+      "art": "yellow",
+      "artTitle": "Bits to atoms",
+      "title": "Kalanick's Atoms raises $1.7B — and it's not betting on humanoids",
+      "summary": "Uber co-founder Travis Kalanick has raised $1.7 billion for Atoms in a round led by Andreessen Horowitz, with Bain Capital and Uber participating, to build AI-driven robots and automation for manufacturing, real estate and transportation. According to Kalanick, humanoids will be good at low-scale tasks in human-designed spaces — high-volume industrial work will go to purpose-built machines.",
+      "source": "TechCrunch",
+      "date": "22 Jul 2026",
+      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/"
+    },
+    {
+      "iso": "2026-07-22",
       "chip": "Deployment",
       "image": "https://humanoid.guide/wp-content/uploads/2026/07/image-28.jpg",
       "credit": "Image © Humanoid Guide",
