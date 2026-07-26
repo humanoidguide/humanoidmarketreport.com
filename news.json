@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-07-23",
+      "chip": "Launch",
+      "art": "green",
+      "artTitle": "Hands first",
+      "title": "Holiday Robotics breaks cover with FRIDAY, a hands-first wheeled humanoid",
+      "summary": "Seoul-based Holiday Robotics has unveiled FRIDAY, a wheeled humanoid aimed at manufacturing, automotive, semiconductor and logistics work. According to the company, the robot packs 64 degrees of freedom — 40 of them in its hands — along with hot-swappable batteries and a vision-language-skill software stack now in private pilots with industrial partners.",
+      "source": "The Robot Report",
+      "date": "23 Jul 2026",
+      "url": "https://www.therobotreport.com/holiday-robotics-raises-105m-wheeled-humanoid-friday/"
+    },
+    {
       "iso": "2026-07-22",
       "chip": "Funding",
       "art": "yellow",
