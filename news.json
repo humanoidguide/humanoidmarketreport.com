@@ -16,6 +16,17 @@
     {
       "iso": "2026-07-31",
       "chip": "Launch",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/07/screenshot-5.jpg",
+      "credit": "Image © Humanoid Guide",
+      "title": "Moon Dynamics aims the $60,000 L1 at warehouse lifting",
+      "summary": "Shenzhen-based Moon Dynamics has put the 165 cm, 60 kg L1 into production at $60,000, pitching it at material handling in warehouses, factories and logistics sites. According to the company, the biped carries up to 25 kg on a three-hour charge, tops out at 7 km/h, and uses a millisecond-level control stack to keep its balance when loads shift — with two-finger claws in place of dexterous hands.",
+      "source": "humanoid.guide",
+      "date": "31 Jul 2026",
+      "url": "https://humanoid.guide/welcome-l1/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing"
+    },
+    {
+      "iso": "2026-07-31",
+      "chip": "Launch",
       "image": "https://humanoid.guide/wp-content/uploads/2026/07/screenshot-3.jpg",
       "credit": "Image © Humanoid Guide",
       "title": "UBTECH points the $25,000 U1 Pro at homes, not factories",
