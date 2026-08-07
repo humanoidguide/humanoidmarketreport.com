@@ -3,6 +3,39 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-08-06",
+      "chip": "Research",
+      "image": "https://today.ucsd.edu/teaser_uploads/_social/Yip_humanoid_robot_thumb_rotator.jpg",
+      "credit": "Image © UC San Diego",
+      "title": "UC San Diego sends humanoid robots into the operating room",
+      "summary": "Teleoperated humanoids completed gallbladder removals in a preclinical animal trial — once alongside a human surgeon and once as a two-robot team, the first surgeries completed by two teleoperated humanoids, according to UC San Diego. Frequent recalibration and control latency made the procedures far slower than dedicated surgical systems, so the work remains proof-of-concept.",
+      "source": "humanoid.guide",
+      "date": "6 Aug 2026",
+      "url": "https://humanoid.guide/uc-san-diego-tests-humanoid-robots-in-preclinical-surgery/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing"
+    },
+    {
+      "iso": "2026-08-05",
+      "chip": "Production",
+      "image": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/img/20260709_1_01.jpg",
+      "credit": "Image © Mitsubishi Motors",
+      "title": "Mitsubishi turns a Kyoto engine line into a humanoid factory",
+      "summary": "Mitsubishi Motors plans to mass-produce Highlanders' roughly 1.75 m humanoid at its Kyoto plant from the first half of 2027, on a repurposed engine production line with capacity for up to 1,000 robots a month, according to the company. The robots will first fill labor gaps in Mitsubishi's own factories, with external sales a later step.",
+      "source": "humanoid.guide",
+      "date": "5 Aug 2026",
+      "url": "https://humanoid.guide/mitsubishi-plans-humanoid-robot-production-in-kyoto-for-2027/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing"
+    },
+    {
+      "iso": "2026-08-04",
+      "chip": "Launch",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/08/screenshot-5.jpg",
+      "credit": "Image © Humanoid Guide",
+      "title": "ROBOTERA aims the wheeled Q5 at hotels, hospitals and museums",
+      "summary": "The service humanoid pairs a stable mobile base with expressive arms and hands precise enough to thread a needle, according to ROBOTERA, plus voice interaction in more than 37 languages backed by DeepSeek models and custom RAG knowledge bases. Already in production, the Q5 is pitched at lobbies, retail and tourism — light service work rather than factory floors.",
+      "source": "humanoid.guide",
+      "date": "4 Aug 2026",
+      "url": "https://humanoid.guide/welcome-robotera-q5/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing"
+    },
+    {
       "iso": "2026-08-04",
       "chip": "Launch",
       "image": "https://humanoid.guide/wp-content/uploads/2026/08/screenshot-3.jpg",
