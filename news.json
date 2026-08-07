@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-08-06",
+      "chip": "IPO",
+      "art": "yellow",
+      "artTitle": "Priced at $9B",
+      "title": "Unitree prices its Shanghai IPO at a $9 billion valuation",
+      "summary": "Hangzhou-based Unitree will sell 40.45 million shares at 150.8 yuan apiece — about 10% of the company — raising some 6.1 billion yuan ($900 million) at a 61 billion yuan ($9.04 billion) valuation, with subscriptions opening August 10, according to Reuters. The STAR Market debut would make Unitree mainland China's first listed humanoid robot maker, after 2025 revenue more than quadrupled to 1.7 billion yuan.",
+      "source": "Reuters",
+      "date": "6 Aug 2026",
+      "url": "https://www.cnbc.com/2026/08/06/chinese-humanoid-robot-maker-unitree-prices-ipo-at-9-billion-valuation.html"
+    },
+    {
+      "iso": "2026-08-06",
       "chip": "Research",
       "image": "https://today.ucsd.edu/teaser_uploads/_social/Yip_humanoid_robot_thumb_rotator.jpg",
       "credit": "Image © UC San Diego",
@@ -23,6 +34,17 @@
       "source": "humanoid.guide",
       "date": "5 Aug 2026",
       "url": "https://humanoid.guide/mitsubishi-plans-humanoid-robot-production-in-kyoto-for-2027/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing"
+    },
+    {
+      "iso": "2026-08-04",
+      "chip": "Funding",
+      "art": "dark",
+      "artTitle": "Old money, new robots",
+      "title": "Billionaire family offices pile into humanoid startups",
+      "summary": "The family offices of Bernard Arnault, Jeff Bezos and Azim Premji are all writing robotics checks — Arnault's venture arm joined London-based Humanoid's Series A, Bezos's firm increased its allocation to Generalist AI, and Premji's office is leading a round for a general-purpose robot maker, according to Bloomberg. Behind the spree sits a Barclays forecast that the humanoid robot market will grow more than 1,000% within the next decade.",
+      "source": "Bloomberg",
+      "date": "4 Aug 2026",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/family-offices-sidestep-ai-fears-in-deal-spree-for-robotics-bets"
     },
     {
       "iso": "2026-08-04",
