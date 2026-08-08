@@ -3,6 +3,39 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-08-07",
+      "chip": "Launch",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/08/screenshot-10.jpg",
+      "credit": "Image © Humanoid Guide",
+      "title": "Nori Robotics aims the compact L3 at labs and living rooms",
+      "summary": "The 145 cm, 40 kg robot pairs a mobile base with two arms and concentrates 16 of its 20 degrees of freedom in the hands, taking on chores from loading a dishwasher to threading a needle, according to the company. Already in production, it is pitched as an affordable entry point into humanoid-style research for education and home-service experimentation.",
+      "source": "humanoid.guide",
+      "date": "7 Aug 2026",
+      "url": "https://humanoid.guide/welcome-nori-l3/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing"
+    },
+    {
+      "iso": "2026-08-07",
+      "chip": "Launch",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/08/screenshot-9.jpg",
+      "credit": "Image © Humanoid Guide",
+      "title": "UBTECH's $55,000 Cruzr Y1 reports for warehouse duty",
+      "summary": "The 170 cm, 90 kg humanoid blends autonomous mobility with dual-arm manipulation, according to UBTECH, hauling loads up to 10 kg with about four hours of runtime for sorting and material handling around people and equipment. Already in production at roughly $55,000, it is aimed at flexible indoor automation rather than fixed, single-purpose machinery.",
+      "source": "humanoid.guide",
+      "date": "7 Aug 2026",
+      "url": "https://humanoid.guide/welcome-cruzr-y1/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing"
+    },
+    {
+      "iso": "2026-08-07",
+      "chip": "Policy",
+      "art": "green",
+      "artTitle": "Albany draws a line",
+      "title": "New York bill would keep humanoid robots from teaching",
+      "summary": "Senate Education Chair Shelley Mayer's bill would require school districts and charter schools to adopt written policies barring AI-enabled humanoids from teacher duties — classroom instruction, one-to-one tutoring and grading — after Salamanca paused its Realbotix classroom pilot. Realbotix CEO Andrew Kiguel calls a sweeping statewide prohibition premature, and the legislature takes the measure up when it reconvenes in January.",
+      "source": "humanoid.guide",
+      "date": "7 Aug 2026",
+      "url": "https://humanoid.guide/new-york-bill-would-ban-ai-humanoid-school-robots-from-teaching/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing"
+    },
+    {
       "iso": "2026-08-06",
       "chip": "IPO",
       "art": "yellow",
