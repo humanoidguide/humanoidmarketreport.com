@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-08-10",
+      "chip": "Market",
+      "title": "China ships 97% of the world's humanoid robots",
+      "summary": "Chinese makers shipped more than 97% of the roughly 19,100 humanoid robots delivered worldwide in the first half of 2026, according to research firm Smart Analytics Global cited by Bloomberg — with Shanghai's Agibot leading at 8,400 units and Hangzhou's Unitree at 5,900. Industrial and commercial applications made up more than 70% of shipments, up from about half a year earlier, according to the firm.",
+      "source": "Bloomberg",
+      "date": "10 Aug 2026",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-10/china-humanoid-makers-hold-97-of-global-shipments-report-says",
+      "art": "yellow",
+      "artTitle": "Made in China"
+    },
+    {
+      "iso": "2026-08-10",
       "chip": "IPO",
       "title": "DeepSeek buys into Unitree's $9 billion IPO",
       "summary": "Chinese AI startup DeepSeek is named among the strategic investors in Unitree's IPO filing, joining the robot maker's Shanghai listing at a valuation of about $9 billion. Founder Wang Xingxing said current humanoid and quadruped models have US approvals while future models could face sales restrictions there, according to remarks reported by Global Times.",
