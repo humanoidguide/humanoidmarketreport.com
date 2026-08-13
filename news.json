@@ -3,6 +3,28 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-08-12",
+      "chip": "Policy",
+      "title": "San Mateo County approves kill-switch rules for humanoids",
+      "summary": "County supervisors unanimously passed a resolution requiring permits, emergency kill switches and fire-safety measures for commercial humanoid robots — one of the first US counties to adopt such a framework, according to the ABC7 report the story cites. Permit fees could help pay for specialized firefighting equipment, and the resolution gives the county a mechanism to track job displacement.",
+      "source": "humanoid.guide",
+      "date": "12 Aug 2026",
+      "url": "https://humanoid.guide/san-mateo-county-approves-commercial-humanoid-robot-rules/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/08/image-18.jpg",
+      "credit": "Image © Humanoid Guide"
+    },
+    {
+      "iso": "2026-08-12",
+      "chip": "Launch",
+      "title": "Swancor's $12,000 PrimeBOT Q1 enters production",
+      "summary": "The 50 cm, 4 kg desktop humanoid from the Chinese composites group's robotics brand is aimed at fine work — sorting goods, assembling products and threading a needle, according to the company. Now in production after its CES 2026 debut, it is priced well below the cost of many larger humanoids.",
+      "source": "humanoid.guide",
+      "date": "12 Aug 2026",
+      "url": "https://humanoid.guide/welcome-primebot-q1/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/08/screenshot-13.jpg",
+      "credit": "Image © Humanoid Guide"
+    },
+    {
       "iso": "2026-08-11",
       "chip": "IPO",
       "title": "Retail buyers bid $1.2 trillion for Unitree's IPO",
