@@ -37,6 +37,17 @@
     },
     {
       "iso": "2026-08-10",
+      "chip": "Manufacturing",
+      "title": "RoboStore launches Robo Inc. to build robots on US soil",
+      "summary": "RoboStore — which says it has put more than 1,500 humanoid and quadruped robots into the field for some 4,500 North American customers — is moving upstream into manufacturing and systems integration with a new company, Robo Inc. According to the company, it will pair global robotics supply chains with US-based engineering and assembly at a 66,000-square-foot Long Island facility expected to be fully operational by Q1 2027.",
+      "source": "The Robot Report",
+      "date": "10 Aug 2026",
+      "url": "https://www.therobotreport.com/robostore-launches-robo-inc-to-help-u-s-organizations-deploy-robots/",
+      "image": "https://mmx.prnewswire.com/media/MS1966763/Robo-Inc-Humanoid-Robot.jpg",
+      "credit": "Image © Robo Inc."
+    },
+    {
+      "iso": "2026-08-10",
       "chip": "Market",
       "title": "China ships 97% of the world's humanoid robots",
       "summary": "Chinese makers shipped more than 97% of the roughly 19,100 humanoid robots delivered worldwide in the first half of 2026, according to research firm Smart Analytics Global cited by Bloomberg — with Shanghai's Agibot leading at 8,400 units and Hangzhou's Unitree at 5,900. Industrial and commercial applications made up more than 70% of shipments, up from roughly 50% a year earlier, according to the firm.",
