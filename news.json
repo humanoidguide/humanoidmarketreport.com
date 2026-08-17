@@ -3,6 +3,39 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-08-17",
+      "chip": "Record",
+      "title": "Unitree claims a 12.66 m/s sprint and a 2-meter jump",
+      "summary": "An unnamed Unitree humanoid hit a top speed of 12.66 meters per second and cleared a 2 meter standing jump, figures the company frames as surpassing human records, according to a statement reported by Global Times. The robot was developed in just over three months, and the report does not specify the test surface, run distance or any independent verification of the numbers.",
+      "source": "humanoid.guide",
+      "date": "17 Aug 2026",
+      "url": "https://humanoid.guide/unitree-humanoid-claims-12-66-m-s-sprint-and-2-meter-jump/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/08/image-26.jpg",
+      "credit": "Image © Humanoid Guide"
+    },
+    {
+      "iso": "2026-08-17",
+      "chip": "Launch",
+      "title": "Robotis opens the books on its AI Sapiens K1",
+      "summary": "South Korea's Robotis has put the K1 into production as a fully open source humanoid, with mechanical design, electrical resources, software, simulation assets and training workflows all meant to be shared, according to the company. The 135.5 cm, 35 kg research platform runs ROS 2 on an NVIDIA Jetson Orin NX and uses DYNAMIXEL quasi direct drive actuators.",
+      "source": "humanoid.guide",
+      "date": "17 Aug 2026",
+      "url": "https://humanoid.guide/welcome-ai-sapiens-k1/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "image": "https://docs.robotis.com/img/systems/aisapiens/ai_sapiens_k1_render.webp",
+      "credit": "Image © ROBOTIS"
+    },
+    {
+      "iso": "2026-08-17",
+      "chip": "Event",
+      "title": "Beijing's Humanoid Games add a home for 1,500 robots",
+      "summary": "The second World Humanoid Robot Games open Saturday in Beijing with 666 teams and 2,056 robots from 16 countries and regions, a 138 percent jump in teams from the inaugural event, according to organizers. A new Robot Home facility can house more than 1,500 robots, charge at least 1,200 batteries and process check-in for a single robot in 30 seconds, CCTV Finance reported.",
+      "source": "humanoid.guide",
+      "date": "17 Aug 2026",
+      "url": "https://humanoid.guide/world-humanoid-robot-games-adds-robot-home-in-beijing/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/08/image-25.jpg",
+      "credit": "Image © Humanoid Guide"
+    },
+    {
       "iso": "2026-08-14",
       "chip": "Analysis",
       "title": "Robot makers are taking the side door to Wall Street",
