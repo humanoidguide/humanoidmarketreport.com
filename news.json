@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-08-19",
+      "chip": "IPO",
+      "title": "Unitree opens up 629% in its Shanghai debut",
+      "summary": "The humanoid maker's shares opened at 1,100 yuan against an issue price of 150.80 in their STAR Market debut — a 629% pop — before closing their first day up 460% at 845 yuan, according to Reuters. The listing raised about $905 million, and Reuters counts Deep Robotics, Leju, Mech-Mind, X Square and AgiBot among the robot makers lining up to follow.",
+      "source": "Reuters",
+      "date": "19 Aug 2026",
+      "url": "https://finance.yahoo.com/technology/articles/unitree-soars-shanghai-debut-milestone-012731295.html",
+      "art": "yellow",
+      "artTitle": "Lift-off in Shanghai"
+    },
+    {
       "iso": "2026-08-18",
       "chip": "IPO",
       "title": "Robotera weighs a $1 billion Hong Kong IPO",
