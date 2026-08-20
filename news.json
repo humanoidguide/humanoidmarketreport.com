@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-08-19",
+      "chip": "Deployment",
+      "title": "Hexagon's AEON trains in Schaeffler's Humanoid Gym",
+      "summary": "Hexagon's AEON humanoids are practicing tasks copied from real production lines in Schaeffler's Humanoid Gym in Germany, where robots are trained and validated before being sent onto the factory floor, according to Hexagon. The partners plan to deploy at least 1,000 AEONs across Schaeffler's plants and say the rollout will accelerate within the next six months.",
+      "source": "Hexagon",
+      "date": "19 Aug 2026",
+      "url": "https://robotics.hexagon.com/aeon-trains-at-schaeffler-humanoid-gym/",
+      "image": "https://robotics.hexagon.com/wp-content/uploads/2026/08/AEON-VR-Training-Schaeffler-Humanoid-Gym.jpg",
+      "credit": "Image © Hexagon"
+    },
+    {
+      "iso": "2026-08-19",
       "chip": "Launch",
       "title": "Galbot's $95,000 ET1 heads for the factory floor",
       "summary": "Beijing-based Galbot has priced its 173 cm, 65 kg ET1 humanoid at $95,000, pairing an NVIDIA Jetson Thor with the company's AstraBrain vision-language-action model, which Galbot says gets from seeing to acting in under 100 milliseconds. Still a prototype, the robot is pitched at stair climbing, sorting and assembly work in factories and warehouses.",
