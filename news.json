@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-08-23",
+      "chip": "Record",
+      "title": "Tiangong Ultra runs a 9.39-second 100m in Beijing",
+      "summary": "At Beijing's World Humanoid Robot Games, X-Humanoid's Tiangong Ultra clocked 9.39 seconds to win a 100-metre heat, with Honor's Lightning timed at 9.47 — both under Usain Bolt's 9.58-second human mark, according to the games. humanoid.guide notes these are heat results, not ratified athletics records.",
+      "source": "humanoid.guide",
+      "date": "23 Aug 2026",
+      "url": "https://humanoid.guide/tiangong-ultra-clocks-9-39-seconds-in-100-metre-sprint/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "art": "green",
+      "artTitle": "Faster than Bolt"
+    },
+    {
       "iso": "2026-08-21",
       "chip": "Launch",
       "title": "Robo Robotics lists the $12,000 ROBO-T1 for light-duty lines",
