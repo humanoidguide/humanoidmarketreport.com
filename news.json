@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-08-24",
+      "chip": "Funding",
+      "title": "XPeng's robotics arm banks $900M at a $6.3B valuation",
+      "summary": "XPeng's robotics business closed a first external round of more than $900 million led by IDG Capital, with Alibaba and Tencent among the strategic backers, at a post-money valuation above $6.3 billion — the largest single private financing in China's embodied AI sector, according to XPeng. The company expects its IRON humanoid to enter mass production by the end of 2026, with deliveries in China and overseas markets starting in 2027.",
+      "source": "XPeng",
+      "date": "24 Aug 2026",
+      "url": "https://www.prnewswire.com/news-releases/xpeng-robotics-business-raises-over-us900-million-at-a-post-money-valuation-of-over-us6-3-billion-accelerating-physical-ai-deployment-302858203.html",
+      "art": "yellow",
+      "artTitle": "The $6.3B bet"
+    },
+    {
       "iso": "2026-08-23",
       "chip": "Record",
       "title": "Tiangong Ultra runs a 9.39-second 100m in Beijing",
