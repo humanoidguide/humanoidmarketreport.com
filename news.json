@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-08-28",
+      "chip": "Earnings",
+      "title": "UBTECH sells 921 humanoids as first-half revenue doubles",
+      "summary": "UBTECH's interim filing shows first-half revenue of RMB1,269.1 million, up 104.2% year on year, with full-size humanoid robot products and services surging 1,445% to RMB590.3 million on 921 units sold. Losses narrowed 23% on a 44.7% gross margin, and the company says it is working toward an annual production target of 10,000 units.",
+      "source": "UBTECH",
+      "date": "28 Aug 2026",
+      "url": "https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0828/2026082801691.pdf",
+      "art": "yellow",
+      "artTitle": "The 1,445% half"
+    },
+    {
+      "iso": "2026-08-28",
       "chip": "Record",
       "title": "Tiangong Ultra drops the robot 100m record to 8.64 seconds",
       "summary": "In the World Humanoid Robot Games final, X-Humanoid's sprinter cut its own 100-meter mark from 8.86 to 8.64 seconds — a time AP first reported as 8.84 before correcting, according to the report. The finish stayed chaotic: several finishers, the winner included, hit the padded barrier, some machines threw sparks and staff reached for fire extinguishers.",
