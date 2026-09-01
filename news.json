@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-09-01",
+      "chip": "IPO",
+      "title": "Mech-Mind lists in Hong Kong at the top of its range",
+      "summary": "The robot “eye-brain-hand” supplier — 3D vision, AI brains and dexterous hands deployed in more than 29,000 units for customers including CATL, BYD and Foxconn — began trading in Hong Kong on 1 September after pricing its IPO at HK$101.70, the top of the range, for a market value of about HK$12.7 billion, according to the company. Reuters reported the offering drew nine cornerstone investors led by Baillie Gifford and could raise up to HK$2.7 billion.",
+      "source": "Mech-Mind",
+      "date": "1 Sep 2026",
+      "url": "https://www.prnewswire.com/news-releases/global-leading-robobrain-firm-mech-mind-robotics-lists-on-hong-kong-stock-exchange-302866053.html",
+      "art": "dark",
+      "artTitle": "Eye, brain, hand"
+    },
+    {
       "iso": "2026-08-28",
       "chip": "Earnings",
       "title": "UBTECH sells 921 humanoids as first-half revenue doubles",
