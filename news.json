@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-09-01",
+      "chip": "Roundup",
+      "title": "Humanoids take four of August's top ten robotics stories",
+      "summary": "The Robot Report's monthly ranking puts Google DeepMind's Gemini Robotics 2 at number one, with Unitree's $905 million Shanghai IPO, XPeng's $900 million Dogotix raise and the humanoid cost debate also on the list. Robot mowers, Zoox's robotaxi and a $900 million shipyard welding deal filled out the rest.",
+      "source": "The Robot Report",
+      "date": "1 Sep 2026",
+      "url": "https://www.therobotreport.com/top-10-robotics-stories-of-august-2026/",
+      "art": "green",
+      "artTitle": "August, ranked"
+    },
+    {
+      "iso": "2026-09-01",
       "chip": "IPO",
       "title": "Mech-Mind lists in Hong Kong at the top of its range",
       "summary": "The robot “eye-brain-hand” supplier — 3D vision, AI brains and dexterous hands deployed in more than 29,000 units for customers including CATL, BYD and Foxconn — began trading in Hong Kong on 1 September after pricing its IPO at HK$101.70, the top of the range, for a market value of about HK$12.7 billion, according to the company. Reuters reported the offering drew nine cornerstone investors led by Baillie Gifford and could raise up to HK$2.7 billion.",
@@ -12,6 +23,17 @@
       "url": "https://www.prnewswire.com/news-releases/global-leading-robobrain-firm-mech-mind-robotics-lists-on-hong-kong-stock-exchange-302866053.html",
       "art": "dark",
       "artTitle": "Eye, brain, hand"
+    },
+    {
+      "iso": "2026-08-30",
+      "chip": "Analysis",
+      "title": "US robot barriers run into China's 86% share",
+      "summary": "The five biggest humanoid makers by shipments – AgiBot, Unitree, Galbot, UBTECH and Leju – are all Chinese and took 86% of the roughly 22,000 units shipped in the first half, according to Counterpoint figures cited by TechCrunch. FCC curbs and fresh tariffs may wall off the American market, the piece argues, but they don't touch China's cost and scale advantage – the likely outcome is fragmented regional markets, not a clean split.",
+      "source": "TechCrunch",
+      "date": "30 Aug 2026",
+      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "art": "yellow",
+      "artTitle": "Scale beats fences"
     },
     {
       "iso": "2026-08-28",
