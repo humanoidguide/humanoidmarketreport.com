@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-09-07",
+      "chip": "Earnings",
+      "title": "Agility's SPAC filing shows $1.8M in sales, $300M in orders",
+      "summary": "Agility Robotics booked $1.8 million in 2025 net sales against a $140 million operating loss, according to the S-4 for its $2.5 billion merger with Churchill Capital Corp XI reported by The Robot Report. The company says Digit humanoids have logged more than 65,000 operating hours across nine customer sites, and it holds over $300 million in multi-year Digit v5 orders from a single customer that it expects to fulfill over the coming years.",
+      "source": "The Robot Report",
+      "date": "7 Sep 2026",
+      "url": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
+      "image": "https://cdn.prod.website-files.com/68d6ca150ffa11fdc25d7575/699fdc1510423641b8d84d45_Agility_Digit_07.avif",
+      "credit": "Image © Agility Robotics"
+    },
+    {
+      "iso": "2026-09-07",
       "chip": "Defense",
       "title": "China speeds up military humanoid research",
       "summary": "A Reuters review of more than 100 Chinese military procurement notices, patents and studies finds the defense establishment accelerating work on humanoid perception, dexterous manipulation and training data — including a PLA purchase of a system to label camera, radar and motion data. The authors of one urban-combat study projected the required equipment could become available within five to 10 years, while Chinese manufacturers accounted for about 95% of global humanoid shipments in 2025, according to BofA Global Research estimates cited in the report.",
