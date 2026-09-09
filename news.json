@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-09-08",
+      "chip": "Launch",
+      "title": "Boston Dynamics veterans launch a robot character studio",
+      "summary": "Dynamic Creatures, founded by former Boston Dynamics strategy chief Marc Theermann and ex-RAI Institute research leader Farbod Farshidian, builds interactive character robots for theme parks, casinos and cruise ships on top of Spot, Atlas and Unitree hardware — and Boston Dynamics has named it its official entertainment and hospitality partner. Backers include Eniac Ventures, Kindred Ventures and Boston Dynamics founder Marc Raibert, with first customer deployments planned for early 2027, according to the company.",
+      "source": "The Robot Report",
+      "date": "8 Sep 2026",
+      "url": "https://www.therobotreport.com/boston-dynamics-veterans-launch-dynamic-creatures-to-bring-characters-to-life-with-robotics/",
+      "image": "https://ml.globenewswire.com/Resource/Download/1c3136bd-2dde-4a79-9111-89e59fdf9837/founder-photo.jpg",
+      "credit": "Image © Dynamic Creatures"
+    },
+    {
       "iso": "2026-09-07",
       "chip": "Earnings",
       "title": "Agility's SPAC filing shows $1.8M in sales, $300M in orders",
