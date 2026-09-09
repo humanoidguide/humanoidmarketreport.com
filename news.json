@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-09-09",
+      "chip": "Manufacturing",
+      "title": "XPeng's IRON humanoid walks off its new production line",
+      "summary": "XPeng has commissioned what it calls the world's first automated production line for advanced humanoids at its Guangzhou facility, where the first IRON was assembled with more than 80% of core processes automated, according to the company. XPeng says the line will take IRON to mass production by the end of the year, with first rollouts in its own stores and campuses and deliveries in China and overseas planned for 2027.",
+      "source": "humanoid.guide",
+      "date": "9 Sep 2026",
+      "url": "https://humanoid.guide/xpeng-commissions-production-line-for-iron-humanoid-robot/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "image": "https://s-cdn.xpeng.com/commoncms/prod/2026-09-08/393d1925d88747e9b9fa107012b9b54f.png",
+      "credit": "Image © XPENG"
+    },
+    {
       "iso": "2026-09-08",
       "chip": "Launch",
       "title": "Boston Dynamics veterans launch a robot character studio",
