@@ -4,6 +4,39 @@
   "items": [
     {
       "iso": "2026-09-14",
+      "chip": "IPO",
+      "title": "Hyundai cools talk of a 2027 Boston Dynamics IPO",
+      "summary": "A listing for the Atlas maker is unlikely next year — “It won't be easy,” a senior Hyundai executive told Reuters — with large-scale deployment still pending and 528.4 billion won in losses in 2025 alone. Hyundai still plans capacity for 30,000 robots a year by 2028, and analysts cited in the report see 2029–2030 as the more realistic window.",
+      "source": "humanoid.guide",
+      "date": "14 Sep 2026",
+      "url": "https://humanoid.guide/boston-dynamics-tempers-2027-ipo-hopes-over-atlas-rollout/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/09/image-22.jpg",
+      "credit": "Image © Humanoid Guide"
+    },
+    {
+      "iso": "2026-09-14",
+      "chip": "Launch",
+      "title": "Persona AI's Gen 1 steps out with NASA roots",
+      "summary": "The Houston startup led by NASA robotics veteran Nic Radford lists its 175 cm, 70 kg humanoid as a working prototype, with 32 degrees of freedom — 20 of them in the hands — and up to four hours per charge, according to the company. Gen 1 runs on NVIDIA's Jetson Thor, is pitched at sorting and assembly work, and comes with an HD Hyundai partnership already in place.",
+      "source": "humanoid.guide",
+      "date": "14 Sep 2026",
+      "url": "https://humanoid.guide/welcome-gen-1/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/09/screenshot-9.jpg",
+      "credit": "Image © Humanoid Guide"
+    },
+    {
+      "iso": "2026-09-14",
+      "chip": "Analysis",
+      "title": "Ten hard questions for the humanoid boom",
+      "summary": "Roughly 19,000 humanoids shipped in the first half of 2026, but only hundreds do genuinely paid work, argues Kinetic Blocks CEO Lars-Fredrik Forberg in an essay published on humanoid.guide — and the best control policies complete just 12.8% of real-world benchmark tasks that human teleoperators finish at 100%. His ten questions probe where deployment, reliability metrics and the value chain still trail the industry's narrative.",
+      "source": "humanoid.guide",
+      "date": "14 Sep 2026",
+      "url": "https://humanoid.guide/ten-questions-humanoid-industry/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/09/ten-1.jpg",
+      "credit": "Image © Humanoid Guide"
+    },
+    {
+      "iso": "2026-09-14",
       "chip": "Launch",
       "title": "GAC's shape-shifting GoMate lists at $80,000",
       "summary": "Carmaker GAC Group's GoMate shifts between a stable four-wheel stance and an upright two-wheel posture, stands 140 cm and runs six hours per charge, according to the company. The third generation of GAC's in-house embodied-AI robots remains a prototype, with a displayed price of $80,000 and purchases handled through an inquiry process.",
