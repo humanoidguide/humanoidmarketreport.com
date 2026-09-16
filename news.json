@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-09-15",
+      "chip": "Launch",
+      "title": "Agility's Digit 5 gets human-style legs and a 9-minute charge",
+      "summary": "Digit 5 replaces its backward-bending “ostrich” knees with human-like legs built on Agility's own cycloidal actuators, lifts up to 50 lb repeatedly and pairs a 90-minute battery with a 9-minute charge — enough, according to the company, for more than 20 hours of work a day. Early access opens in the first half of 2027 with general availability slated for the end of that year, and Agility plans its first CE-marked deployments in the EU and UK.",
+      "source": "The Robot Report",
+      "date": "15 Sep 2026",
+      "url": "https://www.therobotreport.com/agilitys-digit-5-humanoid-has-new-legs-batteries-safety-upgrades/",
+      "image": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6aa8825fea09aad25effc9cf_260831_Agility_V5_Product_Hero_Front_0183_BASE__V2_FINAL-Extended-16-9.jpg",
+      "credit": "Image © Agility Robotics"
+    },
+    {
       "iso": "2026-09-14",
       "chip": "IPO",
       "title": "Hyundai cools talk of a 2027 Boston Dynamics IPO",
