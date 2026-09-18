@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-09-18",
+      "chip": "Strategy",
+      "title": "Toyota pencils in 400,000 robots at $6.4 billion a year",
+      "summary": "Toyota estimates that automating factories across the carmaker, its group companies and major suppliers will take roughly 400,000 robots — humanoid and non-humanoid alike — costing about 1 trillion yen ($6.4 billion) annually from 2028, according to Reuters. The company floated the figures with investors earlier this month.",
+      "source": "Reuters",
+      "date": "18 Sep 2026",
+      "url": "https://www.ksl.com/article/51625620/toyota-estimates-factory-automation-could-cost-64-billion-per-year-from-2028",
+      "art": "yellow",
+      "artTitle": "400,000 Robots"
+    },
+    {
       "iso": "2026-09-17",
       "chip": "Funding",
       "title": "Robotics pulled in $4.9 billion in August, half of it in China",
