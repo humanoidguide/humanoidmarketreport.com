@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-09-17",
+      "chip": "Funding",
+      "title": "Robotics pulled in $4.9 billion in August, half of it in China",
+      "summary": "Robotics companies raised $4.87 billion in disclosed funding and other capital across 162 August transactions, with Chinese firms taking roughly half and humanoid makers about $944 million — 19.4% of the total — according to The Robot Report's tally. Unitree's $905 million IPO and XPeng Robotics' $900 million Series A were the month's two biggest deals.",
+      "source": "The Robot Report",
+      "date": "17 Sep 2026",
+      "url": "https://www.therobotreport.com/robotics-investments-reach-4-9b-in-august-2026/",
+      "art": "dark",
+      "artTitle": "Half to China"
+    },
+    {
+      "iso": "2026-09-17",
       "chip": "Manufacturing",
       "title": "UBTECH opens a Liuzhou plant sized for 10,000 robots a year",
       "summary": "The 14,000-square-metre factory is set up to build Walker S and Cruzr units at a claimed rate of one industrial humanoid every 10 minutes, with an automated warehouse packing 112 robots into 65 square metres, according to the report humanoid.guide cites. Humanoids on site handle materials rather than core assembly, and the account gives no operating schedule reconciling that rate with the 10,000-unit annual capacity.",
