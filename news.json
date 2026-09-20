@@ -3,6 +3,28 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-09-19",
+      "chip": "Manufacturing",
+      "title": "Tesla's Optimus plant nears a complete steel frame",
+      "summary": "Drone footage reviewed by humanoid.guide shows the structural steel of Tesla's dedicated Optimus factory at Giga Texas nearing completion, with concrete going in on the upper floors ahead of a targeted summer 2027 production start. No production equipment is visible yet, and the report stresses that Tesla's long-term goal of 10 million robots a year is not supported by any production data so far.",
+      "source": "humanoid.guide",
+      "date": "19 Sep 2026",
+      "url": "https://humanoid.guide/teslas-texas-optimus-factory-steel-frame-nears-completion/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "art": "dark",
+      "artTitle": "The Optimus Plant"
+    },
+    {
+      "iso": "2026-09-19",
+      "chip": "Launch",
+      "title": "Japan's ugo rolls out Nova for the Physical AI era",
+      "summary": "The dual-arm semi-humanoid pairs a wheeled base with a combined 10 kg payload, six hours of runtime and NVIDIA's Jetson Thor on board, and is pitched as one system for collecting data, training models and testing them in the field, according to ugo. The company, part of Japan's NEDO-backed push for homegrown robots, plans mass production in 2027.",
+      "source": "humanoid.guide",
+      "date": "19 Sep 2026",
+      "url": "https://humanoid.guide/welcome-nova/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "image": "https://ugo.plus/wp-content/uploads/2026/09/260915_ugo_press-scaled.png",
+      "credit": "Image © ugo"
+    },
+    {
       "iso": "2026-09-18",
       "chip": "Acquisition",
       "title": "SoftBank agrees to buy Raibert's RAI Institute",
