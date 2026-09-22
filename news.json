@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-09-21",
+      "chip": "Deployment",
+      "title": "Atlas starts factory school at Hyundai's Metaplant",
+      "summary": "Boston Dynamics and Hyundai have opened the Robotics Metaplant Application Center near Savannah, Georgia – a “Robot Behavior Factory” where real car parts, workcells and teleoperators generate the training data Atlas needs for parts sequencing. Hyundai plans some 25,000 Atlas units across its global plants over the next few years, according to the companies, and the center itself is set to grow roughly tenfold in 2027.",
+      "source": "The Robot Report",
+      "date": "21 Sep 2026",
+      "url": "https://www.therobotreport.com/boston-dynamics-opens-metaplant-application-center-train-atlas-humanoid-robots/",
+      "image": "https://bostondynamics.com/wp-content/uploads/2026/09/rmac-1440.jpg",
+      "credit": "Image © Boston Dynamics"
+    },
+    {
+      "iso": "2026-09-21",
       "chip": "Launch",
       "title": "Axol pitches a $9,499 entry point for dual-arm research",
       "summary": "The compact 61 cm platform from US firm Almond AI pairs two 7-DOF arms — 860 mm of reach and a 6.5 kg payload each, according to the company — with VR teleoperation and an open-source SDK, and is in production and shipping from San Francisco. Almond AI positions it for labs, startups and physical-AI teams that need a lower-cost entry into dual-arm experimentation.",
