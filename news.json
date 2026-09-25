@@ -3,6 +3,28 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-09-24",
+      "chip": "Launch",
+      "title": "Munich's Vesoma walks out of stealth with a $50,000 humanoid",
+      "summary": "Founded in December 2025 by Synapticon co-founder Nikolai Ensslen and Easybrain co-founder Peter Skoromnyi, Vesoma has grown to more than 60 people in Munich and Limassol and hired former Google DeepMind research director Martin Riedmiller as chief AI officer, according to the company. Its first robot, Vesoma 1, is a 170 cm, 75 kg prototype with 26 degrees of freedom aimed at logistics, manufacturing and warehouse work, which humanoid.guide lists at a $50,000 reference price.",
+      "source": "humanoid.guide",
+      "date": "24 Sep 2026",
+      "url": "https://humanoid.guide/welcome-vesoma-1/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "image": "https://cdn.sanity.io/images/wynvfo0v/production/db58645edf25857cd3eaea41ca4e8334b7b49a28-1200x630.jpg",
+      "credit": "Image © Vesoma"
+    },
+    {
+      "iso": "2026-09-23",
+      "chip": "Forecast",
+      "title": "Morgan Stanley sees tens of billions of robots within two decades",
+      "summary": "Strategist Adam Jonas told Bloomberg that tens of billions of robots could enter daily life within one to two decades, with humanoids reaching the billions by 2050 as just one category among thousands, and argued that more inference will have to run inside the machines themselves. His boldest scenario — AI plus robotics multiplying global GDP eight to ten times — is a long-range projection rather than near-term evidence, humanoid.guide notes.",
+      "source": "humanoid.guide",
+      "date": "23 Sep 2026",
+      "url": "https://humanoid.guide/morgan-stanley-forecasts-tens-of-billions-of-robots-in-two-decades/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "art": "green",
+      "artTitle": "Billions of machines"
+    },
+    {
       "iso": "2026-09-23",
       "chip": "Event",
       "title": "Milan winces as Unitree robots walk Vogue's runway",
