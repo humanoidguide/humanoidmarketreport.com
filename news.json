@@ -3,6 +3,28 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-09-25",
+      "chip": "Strategy",
+      "title": "Agility looks beyond legs to wheeled robots",
+      "summary": "A wheeled robot rendering slipped into the Digit 5 launch video, and CEO Jonathan Hurst has now confirmed to The Robot Report that Agility Robotics is exploring a range of form factors, wheels included, to reach more environments sooner. He called the effort just starting and said it is too early to share plans, while maintaining that legs will fit an ever-broader set of jobs.",
+      "source": "The Robot Report",
+      "date": "25 Sep 2026",
+      "url": "https://www.therobotreport.com/agility-robotics-maker-of-digit-humanoid-exploring-wheeled-robots/",
+      "art": "dark",
+      "artTitle": "Legs, then wheels?"
+    },
+    {
+      "iso": "2026-09-24",
+      "chip": "Launch",
+      "title": "Darmstadt's Pink Robotics lists a $60,000 sorting humanoid",
+      "summary": "Pink Robotics, the trading name of Germany's Anyscrew GmbH, has listed its P0 prototype on humanoid.guide at $60,000 — a 175 cm, 82 kg, 32-DOF humanoid aimed at package handling and sorting in distribution centers. The company builds the robot in-house with 3D printing and laser welding, according to the listing.",
+      "source": "humanoid.guide",
+      "date": "24 Sep 2026",
+      "url": "https://humanoid.guide/welcome-p0/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "image": "https://static.wixstatic.com/media/b8a0f0_d06b30c2a87f41ef980731ee71dc0674f000.jpg/v1/fill/w_980,h_551,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/b8a0f0_d06b30c2a87f41ef980731ee71dc0674f000.jpg",
+      "credit": "Image © Pink Robotics"
+    },
+    {
       "iso": "2026-09-24",
       "chip": "Launch",
       "title": "Munich's Vesoma walks out of stealth with a $50,000 humanoid",
