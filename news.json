@@ -15,6 +15,17 @@
     },
     {
       "iso": "2026-09-24",
+      "chip": "Funding",
+      "title": "Feather raises $7.6M to sell a $29,990 developer humanoid",
+      "summary": "Feather has closed a $7.6 million pre-seed round led by Gradient Ventures to build a modular, wheeled humanoid that developers can program and run third-party AI models on, from providers such as Nvidia, Skild and Physical Intelligence. The year-old startup says it has passed $1 million in revenue with robots working as restaurant cooks and lab cleaners, and lists the machine at $29,990, according to TechCrunch and an investor filing from SEED Innovations.",
+      "source": "TechCrunch",
+      "date": "24 Sep 2026",
+      "url": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+      "art": "yellow",
+      "artTitle": "Android for robots"
+    },
+    {
+      "iso": "2026-09-24",
       "chip": "Launch",
       "title": "Darmstadt's Pink Robotics lists a $60,000 sorting humanoid",
       "summary": "Pink Robotics, the trading name of Germany's Anyscrew GmbH, has listed its P0 prototype on humanoid.guide at $60,000 — a 175 cm, 82 kg, 32-DOF humanoid aimed at package handling and sorting in distribution centers. The company builds the robot in-house with 3D printing and laser welding, according to the listing.",
