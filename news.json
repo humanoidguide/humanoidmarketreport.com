@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-09-26",
+      "chip": "Launch",
+      "title": "Oregon's HIRO Industries parks a $55,000 humanoid at the workbench",
+      "summary": "Corvallis startup HIRO Industries, founded by Lex Roller and Ethan Marreel, has listed its Origin prototype on humanoid.guide at $55,000 — a 160 cm, fixed-base, two-armed robot with claw grippers and three RGB-D cameras, built for repetitive goods handling and sorting at shared workstations. It skips legs by design and is available by inquiry, according to the listing.",
+      "source": "humanoid.guide",
+      "date": "26 Sep 2026",
+      "url": "https://humanoid.guide/welcome-origin/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "art": "green",
+      "artTitle": "Built for the bench"
+    },
+    {
       "iso": "2026-09-25",
       "chip": "Strategy",
       "title": "Agility looks beyond legs to wheeled robots",
