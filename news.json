@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-09-28",
+      "chip": "Patents",
+      "title": "China's grip on humanoid patents tightens to 60.8%",
+      "summary": "China accounted for 60.8% of humanoid robot patent filings across the world's five major patent offices in the first half of 2026, up from 51.8% in 2024, while the US share slipped to 21.8% and South Korea's to 4.6%, according to figures from South Korean lawmaker Lee Jeong-heon's office reported by The Korea Herald. The office cautions that recent counts are provisional, since patent applications are normally published only after an 18-month delay.",
+      "source": "humanoid.guide",
+      "date": "28 Sep 2026",
+      "url": "https://humanoid.guide/china-expands-humanoid-robot-patent-share-to-60-8/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "art": "dark",
+      "artTitle": "Filed in China"
+    },
+    {
       "iso": "2026-09-26",
       "chip": "Launch",
       "title": "Oregon's HIRO Industries parks a $55,000 humanoid at the workbench",
