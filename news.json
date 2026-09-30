@@ -3,6 +3,28 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-09-29",
+      "chip": "Launch",
+      "title": "Flourish One aims a $3,555 chore robot at busy parents",
+      "summary": "San Francisco- and Paris-based Flourish has unveiled Flourish One, a six-wheeled, two-armed home robot run on a Raspberry Pi and priced at $3,555, with a first batch of 50 units expected to ship before Christmas, The Robot Report reports. Founder Antoine Marcel says owners will be able to teach it new chores such as tidying up and taking out the trash in under 30 minutes through a smartphone app.",
+      "source": "The Robot Report",
+      "date": "29 Sep 2026",
+      "url": "https://www.therobotreport.com/meet-flourish-one-raspberry-pi-powered-humanoid-built-busy-parents/",
+      "art": "yellow",
+      "artTitle": "Chores, taught fast"
+    },
+    {
+      "iso": "2026-09-29",
+      "chip": "Listing",
+      "title": "Faraday Future spins its robot unit toward a $200M listing",
+      "summary": "Faraday Future has signed a non-binding term sheet to fold its robotics business into Nasdaq-listed AIxCrypto, renamed FF EAI Robotics Ecosystem (ticker FFR), in an all-stock deal valuing the unit at about $200 million, according to the company. FF says the business, which sells humanoid and other robots, had shipped 552 units cumulatively as of August and targets its first robot off a U.S. production line in the first quarter of 2027.",
+      "source": "Faraday Future (PR Newswire)",
+      "date": "29 Sep 2026",
+      "url": "https://www.prnewswire.com/news-releases/ff-eai-robotics-ecosystem-inc-fka-aixcrypto-holdings-inc-to-acquire-ff-robotics-business-for-standalone-listing-faraday-future-unveils-new-execution-plans-for-built-in-usa-acceleration-program-and-initiates-conditional-a-302893648.html",
+      "art": "green",
+      "artTitle": "Robots, spun out"
+    },
+    {
       "iso": "2026-09-28",
       "chip": "Patents",
       "title": "China's grip on humanoid patents tightens to 60.8%",
