@@ -26,6 +26,17 @@
     },
     {
       "iso": "2026-09-28",
+      "chip": "Deployment",
+      "title": "AGIBOT staffs a Chinese theme park with 300 robots",
+      "summary": "AGIBOT and Chimelong have put more than 300 AGIBOT robots to work at Chimelong Spaceship Park in Zhuhai, spread across seven roles from live shows, science classes and guided tours to retail, hotel service and sports, in what the partners call a first phase. The project also took delivery of the 20,000th robot off AGIBOT's production line, according to the company.",
+      "source": "Robotics 24/7",
+      "date": "28 Sep 2026",
+      "url": "https://www.robotics247.com/article/agibot-chimelong-launch-large-scale-embodied-ai-theme-park-with-over-300-robots",
+      "image": "https://www.agibot.com/file/ueditor/php/upload/image/20260924/1790223489374826.jpeg",
+      "credit": "Image © AGIBOT"
+    },
+    {
+      "iso": "2026-09-28",
       "chip": "Patents",
       "title": "China's grip on humanoid patents tightens to 60.8%",
       "summary": "China accounted for 60.8% of humanoid robot patent filings across the world's five major patent offices in the first half of 2026, up from 51.8% in 2024, while the US share slipped to 21.8% and South Korea's to 4.6%, according to figures from South Korean lawmaker Lee Jeong-heon's office reported by The Korea Herald. The office cautions that recent counts are provisional, since patent applications are normally published only after an 18-month delay.",
