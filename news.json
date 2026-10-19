@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-10-11",
+      "chip": "Manufacturers",
+      "title": "BYD's first humanoid surfaces in a design patent",
+      "summary": "China's patent office published a BYD design patent on 9 October for an \"Embodied AI Robot\", showing a black-and-white humanoid with a rounded, screenless head that resembles the Xiao Di robot an executive has previewed. humanoid.guide notes that a published design is no proof of performance or production readiness, and BYD has not given a timeline, price or volume.",
+      "source": "humanoid.guide",
+      "date": "11 Oct 2026",
+      "url": "https://humanoid.guide/byd-unveils-humanoid-robot-design-through-patent-publication/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "art": "yellow",
+      "artTitle": "BYD's blueprint"
+    },
+    {
       "iso": "2026-09-29",
       "chip": "Launch",
       "title": "Flourish One aims a $3,555 chore robot at busy parents",
