@@ -14,17 +14,6 @@
       "artTitle": "Orders vs. reality"
     },
     {
-      "iso": "2026-10-06",
-      "chip": "Leadership",
-      "title": "Boston Dynamics hires ex-Amazon AI chief Rohit Prasad as CEO",
-      "summary": "Prasad, formerly head scientist for Alexa and AGI at Amazon, takes over on 7 October, ending an interim period that began when Robert Playter stepped down in February. Boston Dynamics says he will speed its push to commercialize industrial robots and physical AI.",
-      "source": "Robotics 24/7",
-      "date": "6 Oct 2026",
-      "url": "https://www.robotics247.com/article/boston-dynamics-names-rohit-prasad-as-new-ceo",
-      "art": "green",
-      "artTitle": "New CEO, physical AI"
-    },
-    {
       "iso": "2026-10-11",
       "chip": "Manufacturers",
       "title": "BYD's first humanoid surfaces in a design patent",
@@ -34,6 +23,17 @@
       "url": "https://humanoid.guide/byd-unveils-humanoid-robot-design-through-patent-publication/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
       "art": "yellow",
       "artTitle": "BYD's blueprint"
+    },
+    {
+      "iso": "2026-10-06",
+      "chip": "Leadership",
+      "title": "Boston Dynamics hires ex-Amazon AI chief Rohit Prasad as CEO",
+      "summary": "Prasad, formerly head scientist for Alexa and AGI at Amazon, takes over on 7 October, ending an interim period that began when Robert Playter stepped down in February. Boston Dynamics says he will speed its push to commercialize industrial robots and physical AI.",
+      "source": "Robotics 24/7",
+      "date": "6 Oct 2026",
+      "url": "https://www.robotics247.com/article/boston-dynamics-names-rohit-prasad-as-new-ceo",
+      "art": "green",
+      "artTitle": "New CEO, physical AI"
     },
     {
       "iso": "2026-09-29",
