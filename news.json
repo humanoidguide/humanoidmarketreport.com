@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-10-20",
+      "chip": "Deployment",
+      "title": "AGCO signs Agility to pilot Digit at its Kansas plant",
+      "summary": "Tractor maker AGCO has signed a commercial agreement with Agility for a Digit humanoid pilot at its Hesston, Kansas facility, starting in 2027, according to Agility. Digit will begin with parts sorting, stacking and tote placement – a pilot, not yet a fleet.",
+      "source": "Agility Robotics",
+      "date": "20 Oct 2026",
+      "url": "https://www.agilityrobotics.com/content/agco-and-agility-robotics-advance-smart-manufacturing-with-humanoid-robot-pilot-in-hesston-kansas-facility",
+      "image": "https://cdn.prod.website-files.com/6980c63561bbbeb67b4b7ab5/6ad7bf23c6ceee5f2dd0b820_Press-Release_191026.jpg",
+      "credit": "Image © Agility Robotics"
+    },
+    {
       "iso": "2026-10-12",
       "chip": "Analysis",
       "title": "Humanoid orders arrive weekly, deployments rarely do",
