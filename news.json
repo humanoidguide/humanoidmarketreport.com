@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-10-21",
+      "chip": "Production",
+      "title": "Tesla starts Optimus production in Fremont – 'bumpy' ramp ahead",
+      "summary": "Tesla says Optimus bots are now coming off a Fremont line, which its Q3 shareholder letter calls the first production-quality units it has built. Musk called it early production with a bumpy ramp, and claimed 20,000 a week by end-2027 – a projection, not a commitment.",
+      "source": "TechCrunch",
+      "date": "21 Oct 2026",
+      "url": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+      "art": "dark",
+      "artTitle": "Optimus line starts"
+    },
+    {
       "iso": "2026-10-20",
       "chip": "Deployment",
       "title": "AGCO signs Agility to pilot Digit at its Kansas plant",
