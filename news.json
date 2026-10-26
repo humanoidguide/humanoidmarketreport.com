@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-10-21",
+      "chip": "Deployment",
+      "title": "Audi tests Agile Robots humanoids for parts sequencing",
+      "summary": "Audi, Agile Robots, Dassault Systèmes and NVIDIA announced a proof-of-concept at GTC Berlin to have mobile humanoids pick parts from containers and place them in assembly order at Audi's Ingolstadt plant. It is a lab trial in Audi's Production Lab, with a virtual twin built first, not a production rollout, according to Audi.",
+      "source": "Audi",
+      "date": "21 Oct 2026",
+      "url": "https://www.audi.com/en/press-releases/agile-robots-and-audi-to-transform-automotive-logistics-with-mobile-humanoids-supported-by-dassault-systemes-and-nvidia-18390",
+      "art": "green",
+      "artTitle": "Audi x Agile"
+    },
+    {
+      "iso": "2026-10-21",
       "chip": "Production",
       "title": "Agile Robots plans up to 2,000 small humanoids with Nvidia",
       "summary": "Munich-based Agile Robots expects to build 1,000 to 2,000 compact research humanoids next year, with production of the ONE S and ONE SN starting by end-2026, its CEO told Reuters. Stanford and ETH Zurich are named only as potential customers – the volume is a forecast, not an order book.",
