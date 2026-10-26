@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-10-26",
+      "chip": "Deployment",
+      "title": "GXO sends Agility's Digit to two more US warehouses",
+      "summary": "GXO and Agility Robotics will put Digit into GXO's Statesville, North Carolina and Lebanon, Tennessee sites from early 2027, starting on Digit 4 and moving to Digit 5. According to the companies, Digit has moved more than 100,000 totes at the existing Georgia site.",
+      "source": "GXO & Agility Robotics (GlobeNewswire)",
+      "date": "26 Oct 2026",
+      "url": "https://www.globenewswire.com/news-release/2026/10/26/3387960/0/en/gxo-and-agility-robotics-expand-partnership-to-accelerate-deployment-of-humanoids-in-u-s-operations.html",
+      "art": "yellow",
+      "artTitle": "GXO x Agility"
+    },
+    {
       "iso": "2026-10-21",
       "chip": "Deployment",
       "title": "Audi tests Agile Robots humanoids for parts sequencing",
