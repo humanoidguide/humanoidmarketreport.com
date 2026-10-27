@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-10-26",
+      "chip": "Launch",
+      "title": "Realbotix opens Echo orders: $11,950 desk companion, $59,950 full body",
+      "summary": "Realbotix is selling two Echo companion humanoids direct online, with deliveries in 2027 and first runs capped at 225 tabletop and 25 full-body units. According to the company, the robots need a monthly AI subscription and can plug into ChatGPT, Claude or Gemini.",
+      "source": "Robotics 24/7",
+      "date": "26 Oct 2026",
+      "url": "https://www.robotics247.com/article/realbotix-launches-echo-humanoid-robot-line-built-to-support-human-to-robot-interaction",
+      "art": "dark",
+      "artTitle": "Realbotix Echo"
+    },
+    {
+      "iso": "2026-10-26",
       "chip": "Deployment",
       "title": "GXO sends Agility's Digit to two more US warehouses",
       "summary": "GXO and Agility Robotics will put Digit into GXO's Statesville, North Carolina and Lebanon, Tennessee sites from early 2027, starting on Digit 4 and moving to Digit 5. According to the companies, Digit has moved more than 100,000 totes at the existing Georgia site.",
