@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-10-28",
+      "chip": "Market",
+      "title": "AGIBOT proposes 'Worken' to count robot work, not robot units",
+      "summary": "At its Innovation Day, AGIBOT pitched a metric that multiplies active robots, autonomous hours and output efficiency, and said its 20,000th robot came off the line last month, according to the company. The deployments it cites are company-reported.",
+      "source": "The Robot Report",
+      "date": "28 Oct 2026",
+      "url": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/",
+      "art": "yellow",
+      "artTitle": "AGIBOT Worken"
+    },
+    {
       "iso": "2026-10-26",
       "chip": "Launch",
       "title": "Realbotix opens Echo orders: $11,950 desk companion, $59,950 full body",
