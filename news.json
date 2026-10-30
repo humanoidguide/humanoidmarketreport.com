@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-10-30",
+      "chip": "IPO",
+      "title": "Agility's SPAC lands $465M, Nasdaq debut set for Nov 5",
+      "summary": "Agility Robotics expects about $465M in gross proceeds from its Churchill Capital XI merger: roughly $164M from the trust, $201M from a Foxconn-led PIPE and $100M already received, according to the company. Shareholders vote Nov 2, closing is targeted for Nov 4 and trading as AGLT would start Nov 5.",
+      "source": "Agility Robotics",
+      "date": "30 Oct 2026",
+      "url": "https://www.globenewswire.com/news-release/2026/10/30/3392148/0/en/agility-robotics-and-churchill-capital-corp-xi-announce-expected-gross-capital-raise-of-approximately-465-million-and-anticipated-closing-of-business-combination.html",
+      "art": "green",
+      "artTitle": "Agility AGLT"
+    },
+    {
       "iso": "2026-10-28",
       "chip": "Market",
       "title": "AGIBOT proposes 'Worken' to count robot work, not robot units",
