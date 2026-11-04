@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-11-02",
+      "chip": "IPO",
+      "title": "Agility's SPAC clears shareholder vote with 84% backing",
+      "summary": "Churchill Capital XI holders approved the Agility Robotics merger with more than 84% of votes cast, according to the SPAC's release. Closing is expected Nov 4, with Nasdaq trading as AGLT slated to start Nov 5.",
+      "source": "Churchill Capital Corp XI (SEC filing)",
+      "date": "2 Nov 2026",
+      "url": "https://www.sec.gov/Archives/edgar/data/0002074973/000121390026115034/ea031051701ex99-1.htm",
+      "art": "dark",
+      "artTitle": "Vote cleared"
+    },
+    {
       "iso": "2026-10-30",
       "chip": "IPO",
       "title": "Agility's SPAC lands $465M, Nasdaq debut set for Nov 5",
