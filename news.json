@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-11-05",
+      "chip": "IPO",
+      "title": "Agility rings the Nasdaq bell: AGLT opens at $11.26",
+      "summary": "Agility Robotics began trading as AGLT after closing its Churchill Capital XI merger, opening above the $10 SPAC price and slipping to $10.30 by press time, according to The Robot Report. The company says it holds more than $300M in multiyear Digit 5 orders, with early-access deliveries slated for 2027.",
+      "source": "The Robot Report",
+      "date": "5 Nov 2026",
+      "url": "https://www.therobotreport.com/agility-robotics-begins-trading-on-nasdaq/",
+      "art": "yellow",
+      "artTitle": "AGLT is live"
+    },
+    {
       "iso": "2026-11-02",
       "chip": "IPO",
       "title": "Agility's SPAC clears shareholder vote with 84% backing",
