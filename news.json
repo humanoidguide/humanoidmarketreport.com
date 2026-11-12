@@ -15,6 +15,17 @@
     },
     {
       "iso": "2026-11-09",
+      "chip": "Pricing",
+      "title": "StarBot opens Spark reservations at $7,999",
+      "summary": "Santa Barbara-based StarBot Robotics is taking $200 deposits on Spark, a 22-DoF, three-foot humanoid aimed at classrooms and developers, with the first 100 orders discounted to $5,999. The company calls it US-made, but has published no shipping date yet.",
+      "source": "humanoid.guide",
+      "date": "9 Nov 2026",
+      "url": "https://humanoid.guide/starbot-spark-humanoid-opens-reservations-starting-at-7999/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/11/image-11.jpg",
+      "credit": "Image © Humanoid Guide"
+    },
+    {
+      "iso": "2026-11-09",
       "chip": "Deployment",
       "title": "Agibot's G2s run a Shanghai store for 24 hours – two fail",
       "summary": "Six wheeled Agibot G2 humanoids logged 1,730 tasks over a round-the-clock shift in a working Xuhui convenience store, from coffee orders to restocking, according to Agibot. Only four passed the company's own final assessment; the two handling cleaning and shelf restocking fell short.",
