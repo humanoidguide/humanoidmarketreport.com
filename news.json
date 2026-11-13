@@ -3,6 +3,28 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-11-12",
+      "chip": "Funding",
+      "title": "SoftBank leads Agile Robots' $500M Series F at $8.5B",
+      "summary": "Munich-based Agile Robots has closed a $500 million Series F led by SoftBank Group, with NVIDIA, Hitachi and T.Capital joining, lifting total funding to about $2 billion, according to the company. The money goes to US expansion and more production capacity, including in Germany, where its Fürstenfeldbruck site can build up to 10,000 humanoids a year.",
+      "source": "Agile Robots",
+      "date": "12 Nov 2026",
+      "url": "https://www.agile-robots.com/en/news/detail/physical-ai-leader-agile-robots-raises-500-million-series-f-funding/",
+      "image": "https://www.agile-robots.com/media/files/New_website/News/Physical_AI_leader_Agile_Robots_raises__500_million_Series_F_Funding/Agile_Robots_Zhaopeng_Chen_CEO_Founder_with_Agile_ONE_Portrait_HighRes_LeopoldFiala.jpg",
+      "credit": "Image © Agile Robots"
+    },
+    {
+      "iso": "2026-11-12",
+      "chip": "Deployment",
+      "title": "GXO eyes up to 1,000 Apptronik Apollos – if trials pay off",
+      "summary": "GXO has signed a letter of intent with Apptronik to expand live-warehouse trials of the Apollo humanoid from 2027, covering picking, packing and sortation. A rollout of up to 1,000 robots over four years is on the table, but only if the trials hit agreed KPIs – this is a proposed rollout, not a firm order.",
+      "source": "humanoid.guide",
+      "date": "12 Nov 2026",
+      "url": "https://humanoid.guide/gxo-targets-1000-apptronik-apollo-robots-koetsier-reports/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/11/article-image-1.jpg",
+      "credit": "Image © Humanoid Guide"
+    },
+    {
       "iso": "2026-11-10",
       "chip": "Deployment",
       "title": "Pilatus puts Hexagon's AEON on PC-24 inspection duty",
