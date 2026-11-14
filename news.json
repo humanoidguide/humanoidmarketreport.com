@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-11-12",
+      "chip": "Forecast",
+      "title": "JPMorgan: US humanoid output could hit 400,000 by 2030",
+      "summary": "J.P. Morgan expects US humanoid production to reach 300,000–400,000 units a year by 2030 and about 1.5 million by 2035 as the industry moves from demos to commercial work, Reuters reports. The bank says hands, actuators, AI capability and factory capacity are the near-term bottlenecks, and notes most US makers other than Tesla are targeting 10,000–30,000 units a year.",
+      "source": "Reuters",
+      "date": "12 Nov 2026",
+      "url": "https://www.investing.com/news/stock-market-news/us-humanoid-robot-production-could-hit-400000-by-2030-as-deployment-ramps-jp-morgan-says-5020778",
+      "art": "dark",
+      "artTitle": "400K by 2030"
+    },
+    {
+      "iso": "2026-11-12",
       "chip": "Funding",
       "title": "SoftBank leads Agile Robots' $500M Series F at $8.5B",
       "summary": "Munich-based Agile Robots has closed a $500 million Series F led by SoftBank Group, with NVIDIA, Hitachi and T.Capital joining, lifting total funding to about $2 billion, according to the company. The money goes to US expansion and more production capacity, including in Germany, where its Fürstenfeldbruck site can build up to 10,000 humanoids a year.",
