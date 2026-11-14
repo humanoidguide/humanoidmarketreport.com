@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-11-13",
+      "chip": "New Robot",
+      "title": "ASUS enters humanoids with Gallop",
+      "summary": "ASUS has unveiled Gallop, its first humanoid, now being trained to pack motherboard accessories at an ASUS group electronics plant with a target of 99.5% success in 20 seconds per board, according to the company. ASUS builds the body and a touch-sensing hand in-house, runs it on a single NVIDIA Jetson AGX Thor, and plans customer pilots in 2027 with market availability targeted for the second half of 2028.",
+      "source": "ASUS",
+      "date": "13 Nov 2026",
+      "url": "https://press.asus.com/blog/factory-proven-physical-ai-asus-gallop-humanoid-robot",
+      "image": "https://press.asus.com/assets/w_1266,h_712/83bcfe93-5142-4a2d-972d-dd90faad4105/Gallo001.jpg",
+      "credit": "Image © ASUS"
+    },
+    {
       "iso": "2026-11-12",
       "chip": "Forecast",
       "title": "JPMorgan: US humanoid output could hit 400,000 by 2030",
