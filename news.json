@@ -3,6 +3,28 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-11-15",
+      "chip": "Partnership",
+      "title": "Neura and E.ON take humanoids to the power grid",
+      "summary": "Neura Robotics is teaming up with E.ON and its regional utility enviaM to develop robots for grid inspection, monitoring and hazardous field work, with grid operator Mitnetz Strom as pilot partner and first field trials planned for 2027. Skills will be taught by energy specialists at the TUM RoboGym in Munich, and Neura's 4NE1 humanoid is one candidate platform rather than a confirmed one.",
+      "source": "Humanoid Guide",
+      "date": "15 Nov 2026",
+      "url": "https://humanoid.guide/neura-and-e-on-partner-to-explore-humanoids-for-power-grids/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/11/image-19.jpg",
+      "credit": "Image © Humanoid Guide"
+    },
+    {
+      "iso": "2026-11-14",
+      "chip": "Funding",
+      "title": "Military humanoid maker Foundation misses payroll",
+      "summary": "San Francisco's Foundation, which builds the Phantom humanoid for factories and defence, has not paid staff since its October 30 payroll, CNBC reports, citing people familiar with the matter. According to the report, CEO Sankaet Pathak borrowed $4.6 million from the company in 2025 to buy a home and has been trying to raise new money since January; Foundation did not respond to CNBC's requests for comment.",
+      "source": "CNBC",
+      "date": "14 Nov 2026",
+      "url": "https://www.cnbc.com/2026/11/14/foundation-payroll-ceo-loan.html",
+      "art": "green",
+      "artTitle": "Payroll missed"
+    },
+    {
       "iso": "2026-11-13",
       "chip": "New Robot",
       "title": "ASUS enters humanoids with Gallop",
