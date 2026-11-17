@@ -3,6 +3,28 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-11-17",
+      "chip": "Deployment",
+      "title": "ROBOTERA spreads its humanoids across China Post's Guangdong network",
+      "summary": "ROBOTERA's humanoids now sort parcels at 11 China Post hubs in eight Guangdong cities, from Guangzhou and Shenzhen to Shantou and Heyuan – the largest and most widespread embodied-AI deployment in logistics so far, according to the company. A pilot that began in March in Guangzhou averaged more than 1,500 parcels an hour on induction, ROBOTERA says, though it has not disclosed how many robots are in service.",
+      "source": "ROBOTERA (PR Newswire)",
+      "date": "17 Nov 2026",
+      "url": "https://www.prnewswire.com/news-releases/robotera-expands-humanoid-robot-deployment-across-china-posts-guangdong-network-reaching-eight-cities-province-wide-302941865.html",
+      "image": "https://mmx.prnewswire.com/media/MS2037603/20261117031625EST_image_1.jpg?id=OA3084380&p=medium",
+      "credit": "Image © ROBOTERA"
+    },
+    {
+      "iso": "2026-11-17",
+      "chip": "M&A",
+      "title": "Hyundai now owns all of Boston Dynamics – losses keep climbing",
+      "summary": "Hyundai Motor Group affiliates and Executive Chair Chung Euisun have bought SoftBank's remaining 9.65% stake, giving the group full control of the Atlas maker, according to The Korea Herald as cited by humanoid.guide. Boston Dynamics' revenue rose 29% to 136 billion won in the first nine months of 2026, but its net loss widened to 626.6 billion won – while Hyundai's 30,000-a-year Atlas target for 2028 remains a capacity goal, not a delivery promise.",
+      "source": "humanoid.guide",
+      "date": "17 Nov 2026",
+      "url": "https://humanoid.guide/hyundai-takes-full-boston-dynamics-ownership-for-atlas-push/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "art": "dark",
+      "artTitle": "Atlas, all Hyundai"
+    },
+    {
       "iso": "2026-11-16",
       "chip": "Partnership",
       "title": "LG signs up KIRIA to safety-test its humanoids",
