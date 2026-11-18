@@ -4,6 +4,28 @@
   "items": [
     {
       "iso": "2026-11-17",
+      "chip": "Funding",
+      "title": "Genesis AI raises $500M for its Eno robot",
+      "summary": "Genesis AI has closed a $500M Series A at a $3.5B post-money valuation, co-led by Premji Invest, Khosla Ventures and Eclipse, with NVIDIA, AMD Ventures and Samsung Next among the backers, according to the company. The money goes to data collection, training and rolling out its wheeled Eno robot with customers, starting in manufacturing, logistics and labs, where Genesis says production is now ramping up.",
+      "source": "Genesis AI (PR Newswire)",
+      "date": "17 Nov 2026",
+      "url": "https://www.prnewswire.com/news-releases/genesis-ai-raises-500m-series-a-at-3-5b-valuation-to-master-human-level-dexterity-in-general-purpose-robots-and-deploy-at-scale-302941249.html",
+      "image": "https://mmx.prnewswire.com/media/MS1866711/Eno.mp4?id=OA2719155&p=thumbnail",
+      "credit": "Image © Genesis AI"
+    },
+    {
+      "iso": "2026-11-17",
+      "chip": "Deployment",
+      "title": "Atlas gets its first customer outside the car industry",
+      "summary": "GlobalFoundries will start testing Boston Dynamics' Atlas at its chip fabs in early 2027, which makes it the first non-automotive customer in the humanoid's early-adopter programme, according to the two companies. It is a test-and-training workshop, not a production order: no robot count, sites or tasks have been disclosed. In the same deal, GlobalFoundries is expanding its Spot fleet to fabs in New York, Vermont, Dresden and Singapore.",
+      "source": "GlobalFoundries",
+      "date": "17 Nov 2026",
+      "url": "https://gf.com/news-and-events/news/boston-dynamics-and-globalfoundries-expand-robotics-collaboration/",
+      "art": "dark",
+      "artTitle": "Atlas goes to the fab"
+    },
+    {
+      "iso": "2026-11-17",
       "chip": "Deployment",
       "title": "ROBOTERA spreads its humanoids across China Post's Guangdong network",
       "summary": "ROBOTERA's humanoids now sort parcels at 11 China Post hubs in eight Guangdong cities, from Guangzhou and Shenzhen to Shantou and Heyuan – the largest and most widespread embodied-AI deployment in logistics so far, according to the company. A pilot that began in March in Guangzhou averaged more than 1,500 parcels an hour on induction, ROBOTERA says, though it has not disclosed how many robots are in service.",
