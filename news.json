@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-11-22",
+      "chip": "Funding",
+      "title": "Foundation's cash crunch now costs staff their health cover",
+      "summary": "Foundation Future Industries has told employees their Rippling-administered health benefits were cut off retroactively to October, offering COBRA for November with a promise to reimburse premiums. Staff were last paid on 15 October, while the company chases a bridge loan and a possible $150M investment from South Korea's Base Group that, per CNBC, is not yet finalised.",
+      "source": "CNBC",
+      "date": "22 Nov 2026",
+      "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+      "art": "dark",
+      "artTitle": "Payroll to health cover"
+    },
+    {
       "iso": "2026-11-20",
       "chip": "Pilot",
       "title": "Mitsubishi Electric puts a humanoid on CNC duty",
