@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-11-24",
+      "chip": "Deployment",
+      "title": "YYForce puts a humanoid concierge in a Singapore Novotel lobby",
+      "summary": "Nasdaq-listed YYForce says its humanoid concierge, named Six Seven by hotel staff, will greet guests at Novotel Singapore on Stevens, answering dining, event and travel questions using onboard NVIDIA Jetson compute after training in Isaac Sim. The company has not named the robot body maker or given a start date or unit count.",
+      "source": "YYForce (PR Newswire)",
+      "date": "24 Nov 2026",
+      "url": "https://www.prnewswire.com/news-releases/yyforce-nasdaq-yfor-launches-trained-humanoid-robot-for-hotel-concierge-service-using-nvidia-jetson-and-isaac-sim-302949317.html",
+      "art": "green",
+      "artTitle": "Lobby Concierge"
+    },
+    {
+      "iso": "2026-11-24",
       "chip": "New Entrant",
       "title": "Samsung readies its first in-house humanoid for CES 2027",
       "summary": "Samsung is preparing to unveil its first internally developed humanoid at CES 2027 in January, in standard HR and high-performance HE versions, with 20 motors per hand and a direct-drive joint mechanism borrowing from its Galaxy Z Fold and Flip hinges, according to a BigGo Finance report cited by humanoid.guide. The goal is precise factory work such as smartphone assembly; none of the details have been independently confirmed.",
