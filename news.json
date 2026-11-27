@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-11-26",
+      "chip": "Launch",
+      "title": "Noetix takes Boomy to Kickstarter from $3,599",
+      "summary": "Noetix Robotics has opened Kickstarter pledges for Boomy, a 97 cm, 21-DoF programmable biped for beginners and coding work, starting at $3,599 for super early backers and $5,999 for an Edu version that adds an NVIDIA Jetson Orin NX and a RealSense depth camera. Delivery timing depends on campaign fulfillment, according to humanoid.guide.",
+      "source": "humanoid.guide",
+      "date": "26 Nov 2026",
+      "url": "https://humanoid.guide/noetix-boomy-launches-crowdfunding-with-3599-entry-price/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/11/image-37.jpg",
+      "credit": "Image © Humanoid Guide"
+    },
+    {
+      "iso": "2026-11-26",
       "chip": "Production",
       "title": "XPeng puts IRON sales on the calendar for Q2 2027",
       "summary": "XPeng co-president Brian Gu told CNBC that IRON enters mass production in January, starts training as a store assistant in its car showrooms in the first quarter, and goes on sale in the second quarter with deliveries later in 2027. Gu sees homes following one to two years after commercial rollouts and expects robotics to be easier to make profitable than cars.",
