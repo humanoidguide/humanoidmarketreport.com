@@ -3,6 +3,17 @@
   "topic": "humanoid robot market: funding, manufacturers, deployments, IPOs, adoption",
   "items": [
     {
+      "iso": "2026-11-27",
+      "chip": "Deployment",
+      "title": "Volvo trains AEON humanoids at Ghent for a 2027 pilot",
+      "summary": "Volvo Cars is teaching Hexagon Robotics' wheeled AEON humanoids to place components into two fixtures at its Ghent plant in Belgium. Employees train the robots by demonstration. Ghent is the first Volvo factory to test the platform, with a factory pilot planned for the first half of 2027 and production use targeted from mid-2027.",
+      "source": "humanoid.guide",
+      "date": "27 Nov 2026",
+      "url": "https://humanoid.guide/volvo-tests-aeon-humanoids-at-ghent-ahead-of-2027-factory-pilot/?utm_source=microsite&utm_medium=referral&utm_campaign=mr2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/11/image-38.jpg",
+      "credit": "Image © Humanoid Guide"
+    },
+    {
       "iso": "2026-11-26",
       "chip": "Launch",
       "title": "Noetix takes Boomy to Kickstarter from $3,599",
