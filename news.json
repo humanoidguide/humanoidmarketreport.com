@@ -5,6 +5,17 @@
     {
       "iso": "2026-11-27",
       "chip": "Deployment",
+      "title": "XPeng sends IRON abroad in the second half of 2027",
+      "summary": "XPeng plans to put its IRON humanoid into overseas showrooms from the second half of 2027, after starting showroom duty at its Chinese stores in the first quarter, according to the company. At the Guangzhou Auto Show, several IRON units worked XPeng's booth as sales assistants and guides, and the carmaker announced a Hong Kong R&D centre for humanoid robotics and general-purpose intelligence.",
+      "source": "XPeng",
+      "date": "27 Nov 2026",
+      "url": "https://www.globenewswire.com/news-release/2026/11/27/3411092/0/en/xpeng-accelerates-global-physical-ai-expansion-at-the-2026-guangzhou-international-automobile-exhibition.html",
+      "art": "dark",
+      "artTitle": "IRON Goes Global"
+    },
+    {
+      "iso": "2026-11-27",
+      "chip": "Deployment",
       "title": "Volvo trains AEON humanoids at Ghent for a 2027 pilot",
       "summary": "Volvo Cars is teaching Hexagon Robotics' wheeled AEON humanoids to place components into two fixtures at its Ghent plant in Belgium. Employees train the robots by demonstration. Ghent is the first Volvo factory to test the platform, with a factory pilot planned for the first half of 2027 and production use targeted from mid-2027.",
       "source": "humanoid.guide",
